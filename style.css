@@ -40,3 +40,9 @@ img {
 .mami img {
 	height: 250px;
 }
+@media screen and (max-width:800px) {
+	.mami{
+		display: flex;
+		flex-direction: column;
+	}
+}
