@@ -14,6 +14,18 @@ h1{
 img {
 	max-width: 100%;
 }
+form {
+	display: flex;
+	padding: 20px;
+	background-color: dodgerblue;
+	justify-content: space-around;
+}
+form div+div {
+	margin-left: 20px;
+}
+form label {
+	color: snow;
+}
 .mami {
 	display: flex;
 	margin:20px;
