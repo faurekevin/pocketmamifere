@@ -26,7 +26,7 @@ function addMam(ordre:string, nom:string, image:string , paragraphe:string , /* 
 		image: image,
 		paragraphe: paragraphe
 	});
-	let mam=document.getElementById("mami");
+	let mam=document.getElementById("mami")!;
 
 //generation du contenu html
 mam.innerHTML+=`
