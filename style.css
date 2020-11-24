@@ -1,6 +1,6 @@
 #bigBox {
 	margin: 0 auto;
-	width: 1200px;
+	width: 1600px;
 }
 header{
 	background-color: dodgerblue;
@@ -15,8 +15,9 @@ img {
 	max-width: 100%;
 }
 .mami {
-	text-align: center;
+	display: flex;
 	margin:20px;
+	flex-wrap: wrap;
 	
 
 }
@@ -26,9 +27,11 @@ img {
 	width: 400px;
 	border: 2px solid black;
 	border-radius: 6px;
+	margin: 10px;
 }
 .mami h2, h3, p {
 	margin: 10px;
+	text-align: center;
 }
 
 .mami h2 {
