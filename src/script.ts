@@ -44,5 +44,6 @@ addMam ("Cannidé", "Loup", "../images/loup1.jpg", "Lorem ipsum dolor sit amet, 
 addMam ("Primate", "Ouistiti", "../images/ouistiti.jpg", "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, inventore!");
 addMam ("Marsupial", "Koala", "../images/koala.jpg", "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, inventore!");
 addMam ("Herpestidae", "Suricat", "../images/surricat1.jpg", "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, inventore!");
+addMam ("Ursidae", "Grizzly", "../images/ours.jpg", "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, inventore!");
 
 console.table(tabMam);
